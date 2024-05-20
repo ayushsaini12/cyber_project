@@ -1,6 +1,5 @@
 # Google-Drive-Clone
 ## Still in Development
-## [See Demo Here](https://faiezwaseem.github.io/Google-Drive-Clone/)
 ### Features
  - [x] Folder CRUD
  - [x] File Sharing
